@@ -1,4 +1,4 @@
 from django.shortcuts import render
 
-def hello(request):
-    return render(request, 'hello.html')
+def asphalt(request):
+    return render(request, 'asphalt.html')
